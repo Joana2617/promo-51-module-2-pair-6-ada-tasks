@@ -86,6 +86,10 @@ body {
     margin-right:3px;
 }
 
+.tachado{
+    text-decoration: line-through;
+}
+
   @media all and (max-width:780px) {
     .main{
         display:block;
